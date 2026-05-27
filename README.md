@@ -14,3 +14,4 @@ Most password testers are boring—they just tell you "strong" or "weak." Secure
 🥷 100% Private: No servers, no tracking, no data leakage. Everything happens inside your local machine's memory.
 
 🧪 Breach Simulator: Test your passwords against a simulated database of compromised credentials to ensure you haven't been exposed.
+Link: https://ishaaaano.github.io/SecureType/
